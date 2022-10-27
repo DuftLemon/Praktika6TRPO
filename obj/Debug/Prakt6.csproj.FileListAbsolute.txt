@@ -1,0 +1,16 @@
+C:\Users\310-07\Desktop\Prakt6\bin\Debug\Prakt6.exe.config
+C:\Users\310-07\Desktop\Prakt6\bin\Debug\Prakt6.exe
+C:\Users\310-07\Desktop\Prakt6\bin\Debug\Prakt6.pdb
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.csproj.AssemblyReference.cache
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.csproj.SuggestedBindingRedirects.cache
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\MainWindow.g.cs
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\App.g.cs
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6_MarkupCompile.cache
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6_MarkupCompile.lref
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\MainWindow.baml
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.g.resources
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.Properties.Resources.resources
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.csproj.GenerateResource.cache
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.csproj.CoreCompileInputs.cache
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.exe
+C:\Users\310-07\Desktop\Prakt6\obj\Debug\Prakt6.pdb
